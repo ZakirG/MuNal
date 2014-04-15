@@ -1,0 +1,506 @@
+/Users/meganbarnes/Desktop/Rap//01 Bring da Ruckus.mp3
+/Users/meganbarnes/Desktop/Rap//01 Fuck Your Ethnicity.mp3
+/Users/meganbarnes/Desktop/Rap//01 Intro 2.mp3
+/Users/meganbarnes/Desktop/Rap//01 Intro.mp3
+/Users/meganbarnes/Desktop/Rap//01 PSA 2000.mp3
+/Users/meganbarnes/Desktop/Rap//01 Public Service Announcement.mp3
+/Users/meganbarnes/Desktop/Rap//01 Straight Outta Compton.mp3
+/Users/meganbarnes/Desktop/Rap//01 The Chronic (intro).mp3
+/Users/meganbarnes/Desktop/Rap//01 The Genesis.mp3
+/Users/meganbarnes/Desktop/Rap//01 The Ruler's Back.mp3
+/Users/meganbarnes/Desktop/Rap//01-jay_rock-intro.mp3
+/Users/meganbarnes/Desktop/Rap//02 Fuck Wit Dre Day (and Everybody's Celebratin').mp3
+/Users/meganbarnes/Desktop/Rap//02 Hol' Up.mp3
+/Users/meganbarnes/Desktop/Rap//02 If I Die 2Nite.mp3
+/Users/meganbarnes/Desktop/Rap//02 Kill You.mp3
+/Users/meganbarnes/Desktop/Rap//02 My Name Is.mp3
+/Users/meganbarnes/Desktop/Rap//02 N.Y. State Of Mind.mp3
+/Users/meganbarnes/Desktop/Rap//02 Shame on a Nigga.mp3
+/Users/meganbarnes/Desktop/Rap//02 Takeover Ft Josey Scott F.mp3
+/Users/meganbarnes/Desktop/Rap//02 Things Done Changed.mp3
+/Users/meganbarnes/Desktop/Rap//02-jay_rock-code_red.mp3
+/Users/meganbarnes/Desktop/Rap//03 A.D.H.D.mp3
+/Users/meganbarnes/Desktop/Rap//03 Clan in da Front.mp3
+/Users/meganbarnes/Desktop/Rap//03 Gimme The Loot.mp3
+/Users/meganbarnes/Desktop/Rap//03 Guilty Conscience.mp3
+/Users/meganbarnes/Desktop/Rap//03 IZZO (H.O.V.A.).mp3
+/Users/meganbarnes/Desktop/Rap//03 Let Me Ride.mp3
+/Users/meganbarnes/Desktop/Rap//03 Life's A Bitch.mp3
+/Users/meganbarnes/Desktop/Rap//03 Me Against The World.mp3
+/Users/meganbarnes/Desktop/Rap//03 Stan.mp3
+/Users/meganbarnes/Desktop/Rap//03-jay_rock-bout_that.mp3
+/Users/meganbarnes/Desktop/Rap//04 Brain Damage.mp3
+/Users/meganbarnes/Desktop/Rap//04 Girls Girls Girls Ft Q-Ti.mp3
+/Users/meganbarnes/Desktop/Rap//04 Machine Gun Funk.mp3
+/Users/meganbarnes/Desktop/Rap//04 No Make-Up.mp3
+/Users/meganbarnes/Desktop/Rap//04 Paul (Skit).mp3
+/Users/meganbarnes/Desktop/Rap//04 The Day The Niggaz Took Over.mp3
+/Users/meganbarnes/Desktop/Rap//04 The World Is Yours.mp3
+/Users/meganbarnes/Desktop/Rap//04 Wu-Tang_ 7th Chamber.mp3
+/Users/meganbarnes/Desktop/Rap//04-jay_rock-no_joke_(feat._ab-soul).mp3
+/Users/meganbarnes/Desktop/Rap//05 Can It Be All So Simple_Intermission.mp3
+/Users/meganbarnes/Desktop/Rap//05 Halftime.mp3
+/Users/meganbarnes/Desktop/Rap//05 Hood Gone Love It (Feat. Kendrick Lemar).mp3
+/Users/meganbarnes/Desktop/Rap//05 Jigga That Nigga.mp3
+/Users/meganbarnes/Desktop/Rap//05 Nuthin' But A 'G' Thang.mp3
+/Users/meganbarnes/Desktop/Rap//05 Paul.mp3
+/Users/meganbarnes/Desktop/Rap//05 Tammy's Song.mp3
+/Users/meganbarnes/Desktop/Rap//05 Warning.mp3
+/Users/meganbarnes/Desktop/Rap//05 Who Knew.mp3
+/Users/meganbarnes/Desktop/Rap//06 Chapter Six.mp3
+/Users/meganbarnes/Desktop/Rap//06 Da Mystery of Chessboxin'.mp3
+/Users/meganbarnes/Desktop/Rap//06 Deeez Nuuuts.mp3
+/Users/meganbarnes/Desktop/Rap//06 If I Had.mp3
+/Users/meganbarnes/Desktop/Rap//06 Memory Lane (Sittin' In Da Park).mp3
+/Users/meganbarnes/Desktop/Rap//06 Ready To Die.mp3
+/Users/meganbarnes/Desktop/Rap//06 Steve Berman (Skit).mp3
+/Users/meganbarnes/Desktop/Rap//06 U Dont Know.mp3
+/Users/meganbarnes/Desktop/Rap//06 Young Niggaz.mp3
+/Users/meganbarnes/Desktop/Rap//06-jay_rock-westside_(feat._chris_brown).mp3
+/Users/meganbarnes/Desktop/Rap//07 '97 Bonnie & Clyde.mp3
+/Users/meganbarnes/Desktop/Rap//07 Heavy In The Game.mp3
+/Users/meganbarnes/Desktop/Rap//07 Hola Hovito.mp3
+/Users/meganbarnes/Desktop/Rap//07 Lil' Ghetto Boy.mp3
+/Users/meganbarnes/Desktop/Rap//07 One Love.mp3
+/Users/meganbarnes/Desktop/Rap//07 One More Chance.mp3
+/Users/meganbarnes/Desktop/Rap//07 Ronald Reagan Era.mp3
+/Users/meganbarnes/Desktop/Rap//07 The Way I Am.mp3
+/Users/meganbarnes/Desktop/Rap//07 Wu-Tang Clan Ain't Nuthing ta F' Wit.mp3
+/Users/meganbarnes/Desktop/Rap//07-jay_rock-elbows.mp3
+/Users/meganbarnes/Desktop/Rap//08 A Nigga Witta Gun.mp3
+/Users/meganbarnes/Desktop/Rap//08 Bitch.mp3
+/Users/meganbarnes/Desktop/Rap//08 Fuck Me Feat. Lil' Kim (Interlude).mp3
+/Users/meganbarnes/Desktop/Rap//08 Heart Of The City.mp3
+/Users/meganbarnes/Desktop/Rap//08 Lord Knows.mp3
+/Users/meganbarnes/Desktop/Rap//08 One Time 4 Your Mind.mp3
+/Users/meganbarnes/Desktop/Rap//08 Poe Mans Dreams.mp3
+/Users/meganbarnes/Desktop/Rap//08 The Real Slim Shady.mp3
+/Users/meganbarnes/Desktop/Rap//08-jay_rock-boomerang.mp3
+/Users/meganbarnes/Desktop/Rap//09 Method Man.mp3
+/Users/meganbarnes/Desktop/Rap//09 Nas - Represent.mp3
+/Users/meganbarnes/Desktop/Rap//09 Never Change.mp3
+/Users/meganbarnes/Desktop/Rap//09 Rat-tat-tat-tat.mp3
+/Users/meganbarnes/Desktop/Rap//09 Remember Me.mp3
+/Users/meganbarnes/Desktop/Rap//09 Role Model.mp3
+/Users/meganbarnes/Desktop/Rap//09 The Spiteful Chant.mp3
+/Users/meganbarnes/Desktop/Rap//09 The What Feat. Method Man.mp3
+/Users/meganbarnes/Desktop/Rap//09-jay_rock-all_i_know_is.mp3
+/Users/meganbarnes/Desktop/Rap//10 Chapter Ten.mp3
+/Users/meganbarnes/Desktop/Rap//10 I'm Back.mp3
+/Users/meganbarnes/Desktop/Rap//10 It Ain't Easy.mp3
+/Users/meganbarnes/Desktop/Rap//10 It Ain't Hard To Tell.mp3
+/Users/meganbarnes/Desktop/Rap//10 Juicy.mp3
+/Users/meganbarnes/Desktop/Rap//10 Lounge.mp3
+/Users/meganbarnes/Desktop/Rap//10 Protect Ya Neck.mp3
+/Users/meganbarnes/Desktop/Rap//10 Song Cry.mp3
+/Users/meganbarnes/Desktop/Rap//10 The $20 Sack Pyramid.mp3
+/Users/meganbarnes/Desktop/Rap//10-jay_rock-im_thuggin.mp3
+/Users/meganbarnes/Desktop/Rap//11 All I Need.mp3
+/Users/meganbarnes/Desktop/Rap//11 Can U Get Away.mp3
+/Users/meganbarnes/Desktop/Rap//11 Everyday Struggle.mp3
+/Users/meganbarnes/Desktop/Rap//11 Keisha's Song.mp3
+/Users/meganbarnes/Desktop/Rap//11 Lyrical Gangbang.mp3
+/Users/meganbarnes/Desktop/Rap//11 Marshall Mathers.mp3
+/Users/meganbarnes/Desktop/Rap//11 My Fault.mp3
+/Users/meganbarnes/Desktop/Rap//11 Tearz.mp3
+/Users/meganbarnes/Desktop/Rap//11-jay_rock-kill_or_be_killed_(feat._tech_n9ne_and_krizz_kaliko).mp3
+/Users/meganbarnes/Desktop/Rap//12 High Powered.mp3
+/Users/meganbarnes/Desktop/Rap//12 Ken Kaniff (Skit).mp3
+/Users/meganbarnes/Desktop/Rap//12 Ken Kaniff.mp3
+/Users/meganbarnes/Desktop/Rap//12 Me & My Bitch Feat. Sybil Pennix.mp3
+/Users/meganbarnes/Desktop/Rap//12 Renagade Ft Eminem.mp3
+/Users/meganbarnes/Desktop/Rap//12 Rigamortus.mp3
+/Users/meganbarnes/Desktop/Rap//12 Wu-Tang_ 7th Chamber, Pt. 2.mp3
+/Users/meganbarnes/Desktop/Rap//12-jay_rock-just_like_me_(feat._j._black).mp3
+/Users/meganbarnes/Desktop/Rap//13 Big Poppa.mp3
+/Users/meganbarnes/Desktop/Rap//13 Blueprint.mp3
+/Users/meganbarnes/Desktop/Rap//13 Cum On Everybody.mp3
+/Users/meganbarnes/Desktop/Rap//13 Drug Ballad.mp3
+/Users/meganbarnes/Desktop/Rap//13 Fuck The World.mp3
+/Users/meganbarnes/Desktop/Rap//13 Kush & Corinthians.mp3
+/Users/meganbarnes/Desktop/Rap//13 The Doctor's Office.mp3
+/Users/meganbarnes/Desktop/Rap//13-jay_rock-say_wassup_(feat._ab-soul_kendrick_lemar_and_schoolboy_q).mp3
+/Users/meganbarnes/Desktop/Rap//14 Amityville.mp3
+/Users/meganbarnes/Desktop/Rap//14 Blow My High.mp3
+/Users/meganbarnes/Desktop/Rap//14 Death Around The Corner.mp3
+/Users/meganbarnes/Desktop/Rap//14 Respect.mp3
+/Users/meganbarnes/Desktop/Rap//14 Rock Bottom.mp3
+/Users/meganbarnes/Desktop/Rap//14 Stranded On Death Row.mp3
+/Users/meganbarnes/Desktop/Rap//14-jay_rock-they_be_on_it.mp3
+/Users/meganbarnes/Desktop/Rap//15 Ab-Souls Outro.mp3
+/Users/meganbarnes/Desktop/Rap//15 Bitch Please II.mp3
+/Users/meganbarnes/Desktop/Rap//15 Friend Of Mine.mp3
+/Users/meganbarnes/Desktop/Rap//15 Just Don't Give A Fuck.mp3
+/Users/meganbarnes/Desktop/Rap//15 Outlaw.mp3
+/Users/meganbarnes/Desktop/Rap//15 The Roach (the Chronic Outro).mp3
+/Users/meganbarnes/Desktop/Rap//15-jay_rock-m.o.n.e.y._(feat._j._black).mp3
+/Users/meganbarnes/Desktop/Rap//16 Bitches Ain't Shit.mp3
+/Users/meganbarnes/Desktop/Rap//16 HiiiPower.mp3
+/Users/meganbarnes/Desktop/Rap//16 Kim.mp3
+/Users/meganbarnes/Desktop/Rap//16 Soap.mp3
+/Users/meganbarnes/Desktop/Rap//16 Unbelievable.mp3
+/Users/meganbarnes/Desktop/Rap//16-jay_rock-finest_hour_(feat._rick_ross_and_bj_the_chicago_kid).mp3
+/Users/meganbarnes/Desktop/Rap//17 As The World Turns.mp3
+/Users/meganbarnes/Desktop/Rap//17 Suicidal Thoughts.mp3
+/Users/meganbarnes/Desktop/Rap//17 Under The Influence.mp3
+/Users/meganbarnes/Desktop/Rap//17-jay_rock-lifes_a_gamble.mp3
+/Users/meganbarnes/Desktop/Rap//18 Criminal.mp3
+/Users/meganbarnes/Desktop/Rap//18 I'm Shady.mp3
+/Users/meganbarnes/Desktop/Rap//18-jay_rock-all_my_life_(feat._lil_wayne_and_will.i.am).mp3
+/Users/meganbarnes/Desktop/Rap//19 Bad Meets Evil.mp3
+/Users/meganbarnes/Desktop/Rap//20 Still Don't Give A Fuck.mp3
+/Users/meganbarnes/Desktop/Rap//2pac-04-so_many_tears-outlawz.mp3
+/Users/meganbarnes/Desktop/Rap//2pac-05-temptations-outlawz.mp3
+/Users/meganbarnes/Desktop/Rap//2pac-09-dear_mama-outlawz.mp3
+/Users/meganbarnes/Desktop/Rap//2pac-12-old_school-outlawz.mp3
+/Users/meganbarnes/Desktop/Rap//50 Cent Feat Kendrick Lamar - We Up.mp3
+/Users/meganbarnes/Desktop/Rap//A$AP Ferg - Trap Lord [MP3 - 320kbps]/01 - Let It Go.mp3
+/Users/meganbarnes/Desktop/Rap//A$AP Ferg - Trap Lord [MP3 - 320kbps]/02 - Shabba (feat. A$AP Rocky).mp3
+/Users/meganbarnes/Desktop/Rap//A$AP Ferg - Trap Lord [MP3 - 320kbps]/03 - Lord (feat. Bone Thugs-n-Harmony).mp3
+/Users/meganbarnes/Desktop/Rap//A$AP Ferg - Trap Lord [MP3 - 320kbps]/04 - Hood Pope.mp3
+/Users/meganbarnes/Desktop/Rap//A$AP Ferg - Trap Lord [MP3 - 320kbps]/05 - Fergivicious.mp3
+/Users/meganbarnes/Desktop/Rap//A$AP Ferg - Trap Lord [MP3 - 320kbps]/06 - 402.mp3
+/Users/meganbarnes/Desktop/Rap//A$AP Ferg - Trap Lord [MP3 - 320kbps]/07 - Dump Dump.mp3
+/Users/meganbarnes/Desktop/Rap//A$AP Ferg - Trap Lord [MP3 - 320kbps]/08 - Work (feat. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q) [Remix].mp3
+/Users/meganbarnes/Desktop/Rap//A$AP Ferg - Trap Lord [MP3 - 320kbps]/09 - Didn't Wanna Do That.mp3
+/Users/meganbarnes/Desktop/Rap//A$AP Ferg - Trap Lord [MP3 - 320kbps]/10 - Murda Something (feat. Waka Flocka Flame).mp3
+/Users/meganbarnes/Desktop/Rap//A$AP Ferg - Trap Lord [MP3 - 320kbps]/11 - Make A Scene.mp3
+/Users/meganbarnes/Desktop/Rap//A$AP Ferg - Trap Lord [MP3 - 320kbps]/12 -  Out My Face (feat. D-Real, Onyx & Aston Matthews).mp3
+/Users/meganbarnes/Desktop/Rap//A$AP Ferg - Trap Lord [MP3 - 320kbps]/13 - Cocaine Castle.mp3
+/Users/meganbarnes/Desktop/Rap//Ab-Soul-Longterm_Mentality-WEB-2011/01-ab-soul-real_thinkers.mp3
+/Users/meganbarnes/Desktop/Rap//Ab-Soul-Longterm_Mentality-WEB-2011/02-ab-soul-gone_insane.mp3
+/Users/meganbarnes/Desktop/Rap//Ab-Soul-Longterm_Mentality-WEB-2011/03-ab-soul-loosen_my_tie.mp3
+/Users/meganbarnes/Desktop/Rap//Ab-Soul-Longterm_Mentality-WEB-2011/04-ab-soul-nothing_new_(feat._jhene_aiko).mp3
+/Users/meganbarnes/Desktop/Rap//Ab-Soul-Longterm_Mentality-WEB-2011/05-ab-soul-hell_yeah_(feat._schoolboy_q).mp3
+/Users/meganbarnes/Desktop/Rap//Ab-Soul-Longterm_Mentality-WEB-2011/06-ab-soul-moscato_(feat._kendrick_lamar).mp3
+/Users/meganbarnes/Desktop/Rap//Ab-Soul-Longterm_Mentality-WEB-2011/07-ab-soul-top_dawg_under_dawg.mp3
+/Users/meganbarnes/Desktop/Rap//Ab-Soul-Longterm_Mentality-WEB-2011/08-ab-soul-time_is_of_the_essence_(feat._punch).mp3
+/Users/meganbarnes/Desktop/Rap//Ab-Soul-Longterm_Mentality-WEB-2011/09-ab-soul-more_of_a_euphoria_(feat._alori_joh).mp3
+/Users/meganbarnes/Desktop/Rap//Ab-Soul-Longterm_Mentality-WEB-2011/10-ab-soul-picture_that_(feat._javonte).mp3
+/Users/meganbarnes/Desktop/Rap//Ab-Soul-Longterm_Mentality-WEB-2011/11-ab-soul-big_payback_(feat._murs).mp3
+/Users/meganbarnes/Desktop/Rap//Ab-Soul-Longterm_Mentality-WEB-2011/12-ab-soul-almost_there_(feat._bj_the_chicago_kid).mp3
+/Users/meganbarnes/Desktop/Rap//Ab-Soul-Longterm_Mentality-WEB-2011/13-ab-soul-ltm_(feat._pat_brown).mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/01 Long Live A$AP.mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/02 Goldie.mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/03 PMW (All I Really Need) feat. ScHoolboy Q.mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/04 LVL.mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/05 Hell feat. Santigold.mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/06 Pain feat. OverDoz.mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/07 Fuckin Problems  feat. Drake, 2 Chainz & Kendrick Lamar.mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/08 Wild For The Night feat. Skrillex.mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/09 1 Train feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T..mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/10 Fashion Killa.mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/11 Phoenix.mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/12 Suddenly.mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/13 Jodye.mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/14 Ghetto Symphony feat. Gunplay & A$AP Ferg.mp3
+/Users/meganbarnes/Desktop/Rap//ASAP Rocky – Long.Live.ASAP.(Deluxe)- 2013/15 Angels.mp3
+/Users/meganbarnes/Desktop/Rap//C.R.E.A.M..mp3
+/Users/meganbarnes/Desktop/Rap//Chance The Rapper - Acidrap/01 Good Ass Intro (ft. BJ The Chicago Kid, Lili K., Kiara Lanier, Peter Cottontale, Will for the O'mys, & JP Floyd for Kids These Days).mp3
+/Users/meganbarnes/Desktop/Rap//Chance The Rapper - Acidrap/02 Pusha Man (ft. Nate Fox & Lili K.).mp3
+/Users/meganbarnes/Desktop/Rap//Chance The Rapper - Acidrap/03 Cocoa Butter Kisses (ft. Vic Mensa & Twista).mp3
+/Users/meganbarnes/Desktop/Rap//Chance The Rapper - Acidrap/04 Juice.mp3
+/Users/meganbarnes/Desktop/Rap//Chance The Rapper - Acidrap/05 Lost (ft. Noname Gypsy).mp3
+/Users/meganbarnes/Desktop/Rap//Chance The Rapper - Acidrap/06 Everybody's Something (ft. Saba & BJ The Chicago Kid) 1.mp3
+/Users/meganbarnes/Desktop/Rap//Chance The Rapper - Acidrap/07 Interlude (That's Love).mp3
+/Users/meganbarnes/Desktop/Rap//Chance The Rapper - Acidrap/08 Favorite Song (ft. Childish Gambino).mp3
+/Users/meganbarnes/Desktop/Rap//Chance The Rapper - Acidrap/09 NaNa (ft. Action Bronson).mp3
+/Users/meganbarnes/Desktop/Rap//Chance The Rapper - Acidrap/10 Smoke Again (ft. Ab-Soul).mp3
+/Users/meganbarnes/Desktop/Rap//Chance The Rapper - Acidrap/11 Acid Rain.mp3
+/Users/meganbarnes/Desktop/Rap//Chance The Rapper - Acidrap/12 Chain Smoker.mp3
+/Users/meganbarnes/Desktop/Rap//Chance The Rapper - Acidrap/13 Everything's Good (Good Ass Outro).mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/01 Soulo Ho3 (feat. Jhene Aiko).mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/02 Track Two.mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/03 Bohemian Grove.mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/04 Terrorist Threats (feat. Danny Br.mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/05 Pineal Gland.mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/06 Double Standards.mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/07 Mixed Emotions.mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/08 Sopa (feat. Schoolboy Q).mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/09 Lust Demons (feat. Jay Rock & Bj.mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/10 Illuminate (feat. Kendrick Lamar).mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/11 A Rebellion (feat. Alori Joh).mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/12 Showin' Love.mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/13 Empathy (feat. Alori Joh & Ja Von.mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/14 Nothing's Something.mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/15 Beautiful Death (feat. Punch & As.mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/16 The Book of Soul.mp3
+/Users/meganbarnes/Desktop/Rap//CONTROL SYSTEM 320K/17 Black Lip Bastard [Remix] (Feat..mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/01 - XXX.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/02 - Die Like A Rockstar.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/03 - Pac Blood.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/04 - Radio Song.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/05 - Lie4.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/06 - I Will.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/07 - Bruiser Brigade feat. Dopehead.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/08 - Detroit 187 feat. Chip$.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/09 - Monopoly.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/10 - Blunt After Blunt.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/11 - Outer Space.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/12 - Adderall Admiral.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/13 - DNA.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/14 - Nosebleeds.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/15 - Party All The Time.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/16 - EWNESW.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/17 - Fields.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/18 - Scrap Or Die.mp3
+/Users/meganbarnes/Desktop/Rap//Danny Brown-XXX (2011)/19 - 30.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/01 Lets Be Friends.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/02 17.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/03 All Girl Crazy.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/04 After School.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/05 If It Don't Make Money (Ft. Skeme).mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/06 Honey Buns Interlude.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/07 Honey Buns (Ft. Krondon).mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/08 Erica Part 2.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/09 Black Bentleys.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/10 Tryna Find My Way.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/11 A Intermission For Watts.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/12 South Central Love.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/13 Dominic.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/14 Still Callin (F. Teeflii).mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/15 Pleeze (Ft. Nipsey Hussle).mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/16 The 5 Year Theory (Real Last Shit).mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/17 A.M.N.I.G'z.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Get Home Safely LittleFairyRG/18 Nothin Like Me (Ft. DJ Mustard).mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Yellow Album/01-Dom_Kennedy-So_Elastic_Prod_By_THC.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Yellow Album/02-Dom_Kennedy-Been_Thuggin_Prod_By_Fly_Union.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Yellow Album/03-Dom_Kennedy-We_Ball_Feat_Kendrick_Lamar_Prod_By_Chase_N_Cashe.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Yellow Album/04-Dom_Kennedy-My_Type_Of_Party_Prod_By_DJ_Dahi.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Yellow Album/05-Dom_Kennedy-Girls_On_Stage_Prod_By_THC.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Yellow Album/06-Dom_Kennedy-Don_t_Call_Me_Feat_Too_Hort_Prod_By_THC.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Yellow Album/07-Dom_Kennedy-5.0_Conversations_Prod_By_THC_Polyester.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Yellow Album/08-Dom_Kennedy-Gold_Alpinas_Feat_Rick_Ross_Prod_By_DrewByrd.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Yellow Album/09-Dom_Kennedy-PG_Click_Feat_Niko_G4_Prod_By_J.Lbs.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Yellow Album/10-Dom_Kennedy-Lately_Prod_By_Troy_Noka.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Yellow Album/11-Dom_Kennedy-Hangin_Feat_Freddie_Gibbs_Prod_By_Polyester.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Yellow Album/12-Dom_Kennedy-1_25_Prod_By_DrewByrd.mp3
+/Users/meganbarnes/Desktop/Rap//Dom Kennedy - Yellow Album/13-Dom_Kennedy-P_H_Prod_By_DJ_Dahi.mp3
+/Users/meganbarnes/Desktop/Rap//Doris/01 Pre (ft. SK La' Flare).mp3
+/Users/meganbarnes/Desktop/Rap//Doris/02 Burgundy (ft. Vince Staples).mp3
+/Users/meganbarnes/Desktop/Rap//Doris/03 20 Wave Caps (ft. Domo Genesis).mp3
+/Users/meganbarnes/Desktop/Rap//Doris/04 Sunday (ft. Frank Ocean).mp3
+/Users/meganbarnes/Desktop/Rap//Doris/05 Hive (ft. Vince Staples and Casey Veggies).mp3
+/Users/meganbarnes/Desktop/Rap//Doris/06 Chum.mp3
+/Users/meganbarnes/Desktop/Rap//Doris/07 Sasquatch (ft. Tyler, The Creator).mp3
+/Users/meganbarnes/Desktop/Rap//Doris/08 Centurion (ft. Vince Staples).mp3
+/Users/meganbarnes/Desktop/Rap//Doris/09 523.mp3
+/Users/meganbarnes/Desktop/Rap//Doris/10 Uncle Al.mp3
+/Users/meganbarnes/Desktop/Rap//Doris/11 Guild (ft. Mac Miller).mp3
+/Users/meganbarnes/Desktop/Rap//Doris/12 Molasses (ft. RZA).mp3
+/Users/meganbarnes/Desktop/Rap//Doris/13 Whoa (ft. Tyler, The Creator).mp3
+/Users/meganbarnes/Desktop/Rap//Doris/14 Hoarse.mp3
+/Users/meganbarnes/Desktop/Rap//Doris/15 Knight (ft. Domo Genesis).mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/01. Bad Guy.mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/02. Parking Lot (skit).mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/03. Rhyme Or Reason.mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/04. So Much Better.mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/05. Survival.mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/06. Legacy.mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/07. Asshole (feat. Skylar Grey).mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/08. Berzerk.mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/09. Rap God.mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/10. Brainless.mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/11. Stronger Than I Was.mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/12. The Monster (feat. Rihanna).mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/13. So Far....mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/14. Love Game (Ft. Kendrick Lamar).mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/15. Headlights (Ft. Nate Ruess).mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1/16. Evil Twin.mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 2/01. Baby.mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 2/02. Desperation (feat. Jamie N Commons).mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 2/03. Groundhog Day.mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 2/04. Beautiful Pain (feat. Sia).mp3
+/Users/meganbarnes/Desktop/Rap//Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 2/05. Wicked Ways.mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/Fear & Doubt (Ft. Kenna & Joey Purp).mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/FUN! (Interlude).mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/Hollywood LA (Ft. Lili K).mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/Holy Holy (Ft. Ab-Soul & BJ The Chicago Kid).mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/Lovely Day.mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/Magic (Ft. Jesse Boykins III).mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/Orange Soda 1.mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/RUN! (Ft. Thundercat).mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/That Nigga.mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/Time Is Money (Ft. Rockie Fresh).mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/Tweakin (Ft. Chance The Rapper).mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/Welcome To INNANET.mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/Yap Yap.mp3
+/Users/meganbarnes/Desktop/Rap//INNANETAPE/YSNP (Ft. Eliza Doolittle).mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - Ain't That Some Shit (Interlude).mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - Chaining Day.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - Is She Gon Pop.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - Kerney Sermon (Skit).mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - LAnd of the Snakes.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - Let Nas Down.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - Miss America.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - Mo Money (Interlude).mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - Niggaz Know.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - Rich Niggaz.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - Runaway.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - Trouble.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - Villuminati.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole - Where's Jermaine_ (Skit).mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole Feat 50 Cent & Bas - New York Times.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole Feat @Fauntleroy - Born Sinner.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole Feat Amber Coffman - She Knows.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole Feat Jhene Aiko - Sparks Will Fly.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole Feat Kendrick Lamar - Forbidden Fruit.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole Feat Miguel - Power Trip.mp3
+/Users/meganbarnes/Desktop/Rap//J Cole - Born Sinner (Deluxe Version)/J Cole Feat TLC - Crooked Smile.mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/01-jay_rock-intro.mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/02-jay_rock-code_red.mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/03-jay_rock-bout_that.mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/04-jay_rock-no_joke_(feat._ab-soul).mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/05-jay_rock-hood_gone_love_it_(feat._kendrick_lemar).mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/06-jay_rock-westside_(feat._chris_brown).mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/07-jay_rock-elbows.mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/08-jay_rock-boomerang.mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/09-jay_rock-all_i_know_is.mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/10-jay_rock-im_thuggin.mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/11-jay_rock-kill_or_be_killed_(feat._tech_n9ne_and_krizz_kaliko).mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/12-jay_rock-just_like_me_(feat._j._black).mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/13-jay_rock-say_wassup_(feat._ab-soul_kendrick_lemar_and_schoolboy_q).mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/14-jay_rock-they_be_on_it.mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/15-jay_rock-m.o.n.e.y._(feat._j._black).mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/16-jay_rock-finest_hour_(feat._rick_ross_and_bj_the_chicago_kid).mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/17-jay_rock-lifes_a_gamble.mp3
+/Users/meganbarnes/Desktop/Rap//Jay_Rock-Follow_Me_Home-2011-CR/18-jay_rock-all_my_life_(feat._lil_wayne_and_will.i.am).mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/01-Joey_Bada-Alowha_Prod_By_Kirk_Knight.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/02-Joey_Bada-Hillary_wank_Prod_By_Lee_Bannon.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/03-Joey_Bada-My_Yout_Feat_Collie_Buddz_Prod_By_Chuck_Strangers.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/04-Joey_Bada-Death_Of_YOLO_Feat_Smoke_Dza_Prod_By_Bruce_Leekix.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/05-Joey_Bada-Right_On_Time_Prod_By_Kirk_Knight.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/06-Joey_Bada-Sweet_Dreams_Prod_By_Navie_D.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/07-Joey_Bada-47_Goonz_Feat_Dirty_Sanchez_Nyck_Caution_Prod_By_Lee_Bannon.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/08-Joey_Bada-Word_Is_Bond_Prod_By_Statik_Selektah.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/09-Joey_Bada-Sit_N_Prey_Feat_Dessy_Hings_T_Nah_Apex_Prod_By_Navie_D.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/10-Joey_Bada-Trap_Door_Prod_By_Alchemist.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/11-Joey_Bada-Satellite_Feat_Chuck_Strangers_Kirk_Knight_Dessy_Hinds_Prod_By_Lee_Bannon.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/12-Joey_Bada-95_Til_Infinity_Prod_By_Lee_Bannon.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/13-Joey_Bada-Amethyst_Rockstar_Feat_Kirk_Knight_Prod_By_MF_DOOM.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/14-Joey_Bada-Reign_Prod_By_Chuck_Strangers.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/15-Joey_Bada-Sorry_Bonita_Feat_Pro_Era_Prod_By_Oddisee.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/16-Joey_Bada-LongLiveSteelo_Prod_By_Kirk_Knight.mp3
+/Users/meganbarnes/Desktop/Rap//Joey Bada$$-Summer Knights (2013) 320 Badass/17-Joey_Bada-Unorthodox_Prod_By_DJ_Premier_Bonus.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - Graduation (2007)/01- Morning (intro).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - Graduation (2007)/02- Champion.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - Graduation (2007)/03- Stronger.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - Graduation (2007)/04- I Wonder.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - Graduation (2007)/05- Good life (ft. T-Pain).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - Graduation (2007)/06- Can't Tell Me Nothing.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - Graduation (2007)/07- Barry Bonds (ft. Lil Wayne).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - Graduation (2007)/08- Drunk And Hot Girls (ft. Mos Def).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - Graduation (2007)/09- Flashing Lights (ft. Dwele).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - Graduation (2007)/10- Everything I Am.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - Graduation (2007)/11- The Glory.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - Graduation (2007)/12- Homecoming (ft. Chris Martin).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - Graduation (2007)/13- Big Brother.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/01.Intro.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/02.We Don't Care.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/03.Graduation Day.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/04.All Falls Down (Ft. Syleena Johnson).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/05.I'll Fly Away.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/06.Spaceship (Ft. Glc & Consequence).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/07.Jesus Walks.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/08.Never Let Me Down (Ft. Jay-Z & J-Ivy).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/09.Get 'em High (Ft. Talib Kweli & Common).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/10.Workout Plan.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/11.The New Workout Plan.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/12.Slow Jamz (Ft. Twista & Jamie Foxx).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/13.Breathe In, Breathe Out (Ft. Ludacris).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/14.School Spirit (Skit).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/15.School Spirit.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/16.School Spirit (Skit 2).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/17.Lil' Jimmy (Skit).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/18.Two Words (Ft. Mos Def, Freeway & The Boys Of Harlem).mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/19.Through The Wire.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/20.Family Business.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/21.Last Call.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West Presents Good Music Cruel Summer/01 To the World.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West Presents Good Music Cruel Summer/02 Clique.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West Presents Good Music Cruel Summer/03 Mercy.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West Presents Good Music Cruel Summer/04 New God Flow.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West Presents Good Music Cruel Summer/05 The Morning.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West Presents Good Music Cruel Summer/06 Cold.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West Presents Good Music Cruel Summer/07 Higher.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West Presents Good Music Cruel Summer/08 Sin City.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West Presents Good Music Cruel Summer/09 The One.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West Presents Good Music Cruel Summer/10 Creepers.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West Presents Good Music Cruel Summer/11 Bliss.mp3
+/Users/meganbarnes/Desktop/Rap//Kanye West Presents Good Music Cruel Summer/12 Don't Like.mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/01 Wake Up Mr. West (Feat. Bernie Mac).mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/02 Heard 'Em Say (Feat. Adam Levine of Maroon 5).mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/03 Touch The Sky (Feat. Lupe Fiasco).mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/04 Gold Digger (Feat. Jamie Foxx).mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/05 Skit #1.mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/06 Drive Slow (Feat. Paul Wall & GLC).mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/07 My Way Home (Feat. Common).mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/08 Crack Music (Feat. The Game).mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/09 Roses.mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/10 Bring Me Down (Feat. Brandy).mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/11 Addiction.mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/12 Skit #2.mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/13 Diamonds From Sierra Leone (Remix) (Feat. Jay-Z).mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/15 Skit #3.mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/16 Hey Mama.mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/17 Celebration.mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/18 Skit #4.mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/19 Gone (Feat. Consequence & Cam'Ron).mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/20 Diamonds From Sierra Leone (Bonus Track).mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/21 Late (Hidden Track).mp3
+/Users/meganbarnes/Desktop/Rap//kanye west-late registration/Kanye West - Late Registration - 14 - We Major (Feat.Nas And Really Doe).mp3
+/Users/meganbarnes/Desktop/Rap//Run the Jewels-Run the Jewels (2013) 320/01 Run The Jewels.mp3
+/Users/meganbarnes/Desktop/Rap//Run the Jewels-Run the Jewels (2013) 320/02 Banana Clipper (Feat. Big Boi).mp3
+/Users/meganbarnes/Desktop/Rap//Run the Jewels-Run the Jewels (2013) 320/03 36 Chain.mp3
+/Users/meganbarnes/Desktop/Rap//Run the Jewels-Run the Jewels (2013) 320/04 DDFH.mp3
+/Users/meganbarnes/Desktop/Rap//Run the Jewels-Run the Jewels (2013) 320/05 Sea Legs.mp3
+/Users/meganbarnes/Desktop/Rap//Run the Jewels-Run the Jewels (2013) 320/06 Job Well Done (Feat. Until The Ribbon Breaks).mp3
+/Users/meganbarnes/Desktop/Rap//Run the Jewels-Run the Jewels (2013) 320/07 No Come Down.mp3
+/Users/meganbarnes/Desktop/Rap//Run the Jewels-Run the Jewels (2013) 320/08 Get It.mp3
+/Users/meganbarnes/Desktop/Rap//Run the Jewels-Run the Jewels (2013) 320/09 Twin Hype Back (Feat. Prince Paul as Chest Rockwell).mp3
+/Users/meganbarnes/Desktop/Rap//Run the Jewels-Run the Jewels (2013) 320/10 A Christmas Fucking Miracle.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/01 Sacrilegious.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/01 U.O.E.N.O. (feat. Kendrick Lamar, Ab-Soul & Jay Rock).mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/02 There He Go.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/02 Yay Yay.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/03 Hands On The Wheel (feat. A$ap Ro.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/03 Hell of a Night.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/04 Sex Drive (feat. J Hene Aiko).mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/04 She Like.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/05 Oxy Music.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/05 Work 2013 (feat. A$AP Rocky, A$AP Ferg, French Montana & Trinidad James).mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/06 Grooveline (feat. Dom Kennedy & Curren$y).mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/06 My Hatin' Joint.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/07 Hands On the Wheel (feat. A$AP Rocky).mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/07 Tookie Knows (Interlude).mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/08 Brand New Guy (feat. A$AP Rocky).mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/08 Raymond 1969.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/09 Sexting.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/09 Shadow of Death (feat. Kendrick Lamar, Ab-Soul & Jay Rock).mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/10 Grooveline Pt. 1 (feat. Dom Kenne.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/10 Swimming Pools (feat. Kendrick Lamar, Ab-Soul & Jay Rock).mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/11 Gangsta In Designer (No Concept).mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/11 The Recipe (feat. Kendrick Lamar, Ab-Soul & Jay Rock).mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/12 How We Feeling.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/13 Druggys Wit Hoes Again (feat. Ab.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/14 Nightmare On Figg St..mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/15 My Homie.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/16 Blessed (feat. Kendrick Lamar).mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/17 NiggaHs.Already.Know.Davers.Flow.mp3
+/Users/meganbarnes/Desktop/Rap//SchoolBoy Q/18 2 Raw (feat. Jay Rock).mp3
+/Users/meganbarnes/Desktop/Rap//Schoolboy Q Feat Kendrick Lamar - Collard Greens.mp3
+/Users/meganbarnes/Desktop/Rap//01 Interlude.m4a
+/Users/meganbarnes/Desktop/Rap//02 December 4th.m4a
+/Users/meganbarnes/Desktop/Rap//03 What More Can I Say.m4a
+/Users/meganbarnes/Desktop/Rap//04 Encore.m4a
+/Users/meganbarnes/Desktop/Rap//05 Change Clothes.m4a
+/Users/meganbarnes/Desktop/Rap//06 Dirt Off Your Shoulder.m4a
+/Users/meganbarnes/Desktop/Rap//07 Threat.m4a
+/Users/meganbarnes/Desktop/Rap//08 Moment of Clarity.m4a
+/Users/meganbarnes/Desktop/Rap//09 99 Problems.m4a
+/Users/meganbarnes/Desktop/Rap//10 Public Service Announcement (Interlude).m4a
+/Users/meganbarnes/Desktop/Rap//11 Justify My Thug.m4a
+/Users/meganbarnes/Desktop/Rap//12 Lucifer.m4a
+/Users/meganbarnes/Desktop/Rap//13 Allure.m4a
+/Users/meganbarnes/Desktop/Rap//14 My 1st Song.m4a
+/Users/meganbarnes/Desktop/Rap//Young Money & Lloyd/We Are Young Money/09 BedRock.m4a
