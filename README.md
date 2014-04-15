@@ -24,4 +24,5 @@ To test if our database generation scripts work on your system:
 * urllib2, urlparse
 * pickle
 * tkinter and ttk
+
 Choose highest versions for each of the packages above, especially for rpy2. Be sure that your R version is up to date (at least version 3) before downloading rpy2, or else many errors will occur.
