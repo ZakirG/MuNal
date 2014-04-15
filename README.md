@@ -5,6 +5,7 @@ MuNal is an application of the RPart Decision Tree package to classify music fro
 ![MuNal GUI](GUI.png)
 
 Production team: Megan Barnes, Zakir Gowani, Michael Lizza
+
 Written for CMSC 122
 
 ####Running MuNal:
