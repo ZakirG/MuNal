@@ -7,7 +7,7 @@ Written for CMSC 122
 
 ####Running MuNal:
     $ python MuNal.py
-  This script presents a TkInter GUI which interfaces with a pickled decision tree file to classify input songs into one of three broad genres (Rap, EDM, Folk). We thank [The Echo Nest](http://echonest.com/) for access to their music data, as well as Terry Therneau,Beth Atkinson, and Brian Ripley for their [RPart decision tree package](http://cran.r-project.org/web/packages/rpart/index.html).
+  This script presents a TkInter GUI which interfaces with a pickled decision tree file to classify input songs into one of three broad genres (Rap, EDM, Folk). We thank [The Echo Nest](http://echonest.com/) for access to their music data, as well as Terry Therneau, Beth Atkinson, and Brian Ripley for their [RPart decision tree package](http://cran.r-project.org/web/packages/rpart/index.html).
 
 
 To test if our database generation scripts work on your system, use
