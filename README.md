@@ -13,8 +13,9 @@ Written for CMSC 122
   This script presents a TkInter GUI which interfaces with a pickled decision tree file to classify input songs into one of three broad genres (Rap, EDM, Folk). We thank [The Echo Nest](http://echonest.com/) for access to their music data, as well as Terry Therneau, Beth Atkinson, and Brian Ripley for their [RPart decision tree package](http://cran.r-project.org/web/packages/rpart/index.html).
 
 
-To test if our database generation scripts work on your system, use
-  $ sh test_all.sh
+To test if our database generation scripts work on your system:
+
+    $ sh src/test_all.sh
 
 ####Prerequisite packages:
 * pyen: Available [here](https://github.com/plamere/pyen)
