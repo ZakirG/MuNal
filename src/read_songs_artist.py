@@ -1,3 +1,9 @@
+# ##################################################
+# This script takes a text file list of songs by one artist as input, and an artist name
+# Uses echonest to find information on all these songs and modify an SQLite database, referenced in a command line arg
+# Usage: python read_songs_artist.py <text file of songs> <database> <artist name>
+# Example: python read_songs_artist.py song_lists/kanye_west.txt genre_db/rap.db Kanye\ West
+# ##################################################
 import pyen
 import numpy as np
 import pandas as pd
@@ -6,34 +12,26 @@ import sys, string, re
 import sqlite3
 from time import sleep
 import read_songs as rs
-#short tutorial here https://github.com/plamere/pyen
-#API overview here http://developer.echonest.com/docs/v4/song.html#profile
-#This script take a text file list of songs by one artist as input, and an artist name
-#Uses echonest to find information on all these songs and modify an SQLite database, referenced in a command line arg
-#Usage: python read_songs_artist.py <text file of songs> <database> <artist name>
-#example: python read_songs_artist.py song_lists/kanye_west.txt genre_db/rap.db Kanye\ West
-
 
 API_KEY = "GX5WDOWGQL5FJBBVF"
-#setting the API key
 en = pyen.Pyen("GX5WDOWGQL5FJBBVF")
 
-#original implentation, searches by song name, return song id
 def song_search(combined_input,result_num=0, api_key=API_KEY):
+	"""Original implentation, searches by song name, return song id"""
 	response = en.get('song/search', api_key=API_KEY, combined=combined_input)
 	if result_num >= len(response["songs"]):
 		return -1
 	return response["songs"][result_num]["id"]
 
-#newer version, searches by song name and artist, return song id
 def song_search_artist(song_name, artist_input,result_num=0):
+	"""Newer implementation: searches by song name and artist, return song id"""
 	response = en.get('song/search', api_key=API_KEY, title=song_name, artist=artist_input)
 	if result_num >= len(response["songs"]):
 		return -1
 	return response["songs"][result_num]["id"]
 
-#return dictionary of basic song info
 def song_profile(named_input, artist, result_num=0):
+	"""Returns dictionary of basic song info"""
 	if artist == -1:
 		id = song_search(named_input, result_num)
 	else:
@@ -42,18 +40,17 @@ def song_profile(named_input, artist, result_num=0):
 		return -1
 	response = en.get('song/profile', api_key=API_KEY, id=id, bucket="audio_summary")
 	return response["songs"][result_num]
-	
-#made reading a function so that we only open each file for reading *once*
+
 def read_songs(filename, artist=-1):
+	"""Reads and cleans song names from file to create a dictionary"""
 	f = open(filename, 'r')
 	z = f.read()
 	f.close()
 	z = z.split("\n")
 	z = [song for song in z if len(song) > 1]
 	song_list = {}
-	#excluding all punctuation, except for dashes (we care about jay-z)
+	# Excluding all punctuation, except for dashes (we care about jay-z)
 	exclude = string.punctuation
-	#exclude = exclude.translate(string.maketrans("",""), "-")
 	num_successful = 0
 	total_songs = 0
 	for song in z:
@@ -101,7 +98,7 @@ def read_songs(filename, artist=-1):
 		total_songs += 1
 		song_list[rs.get_name(profile)] = profile
 	print str(num_successful) + " successful out of " + str(total_songs)
-	return song_list #a dictionary
+	return song_list # A dictionary
 
 def main():
 	if len(sys.argv) > 3:

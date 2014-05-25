@@ -1,3 +1,9 @@
+# #########################################################
+# MuNal: Statistical classification of Music Genre
+# Project Team: Megan Barnes, Zakir Gowani, Michael Lizza
+# This script launches a GUI which interfaces with our pickled decision tree fit
+# Special thanks to EchoNest for their music attribute database
+# #########################################################
 from Tkinter import *
 import ttk
 import read_songs_artist as rsa
@@ -17,7 +23,6 @@ The Show Me button queries the Echonest music database for some information; oth
 Then select the Guess Genre button for our decision tree's prediction.\n\
 The algorithm used here has approximately a 60% success rate when discriminated between inputs that fall in either Rap, EDM, or Folk.\n\
 *********************\n"""
-
 
 #These global variables refer to the clicked-or-not-clicked status of the two input fields
 global clicked_field_1
@@ -42,8 +47,8 @@ def callback_2(self):
 def show_entry_fields():
    print("Song Name: %s\nArtist: %s" % (e1.get(), e2.get()))
 
-#Returns dictionary from echonest; function modified for use with GUI
 def song_profile(named_input, artist, result_num=0):
+	"""Returns dictionary from echonest; function modified for use with GUI"""
 	if artist == -1:
 		id = rsa.song_search(named_input, result_num)
 	else:
@@ -53,8 +58,8 @@ def song_profile(named_input, artist, result_num=0):
 	response = en.get('song/profile', api_key=API_KEY, id=id, bucket="audio_summary")
 	return response["songs"][result_num]
 
-#Prints summary of song and returns information necessary for decision tree
 def query(name,artist):
+	"""Prints summary of song and returns information necessary for decision tree"""
 	keys = ['C', 'C#', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'Ab', 'A', 'Bb']
 	if name == "" or artist == "":
 		display_text("No results for that query. \n")
@@ -109,8 +114,8 @@ def query(name,artist):
 		display_text(dict)
 		return -1
 
-#function for displaying text in scroll box
 def display_text(dict):
+	"""Displays text in scroll box"""
 	if dict != "No results for that query. \n" or dict != "Please enter a song name. \n":
 		tex.insert(INSERT,dict,"success")
 		tex.see(END)
@@ -120,8 +125,8 @@ def display_text(dict):
 		tex.see(END)
 		return
 
-#function that guesses and displays the genre of the input song
 def guess(name,artist):
+	"""Guesses and displays the genre of the input song"""
 	if name == "":
 		a = "Please enter a song name. \n"
 		display_text(a)
@@ -139,22 +144,22 @@ def guess(name,artist):
 	d = "\t" + str(round(result[0][2]*100,2)) + "%" + " probability this is Rap.\n\n"
 	display_text(a+b+c+d)
 
-#creating window
+# Creating window
 master = Tk()
 master.title("MuNal")
 master.geometry("450x465+300+100")
 master.configure(background='pale goldenrod')
 style=ttk.Style()
 try:
-	style.configure("TLabel",font='tahoma 9',foreground='black')
+	style.configure("TLabel", font='tahoma 9', foreground='black')
 except: 
-	style.configure("TLabel",font='helvetica 9',foreground='black')
+	style.configure("TLabel", font='helvetica 9', foreground='black')
 photo = PhotoImage(file = 'images/yeezus1.gif')
 photo2 = PhotoImage(file = 'images/help1.gif')
-ttk.Label(master, text="Song Name",style='TLabel',background="pale goldenrod").grid(row=0,column=2)
-ttk.Label(master, text="Artist",style='TLabel',background="pale goldenrod").grid(row=1,column=2)
+ttk.Label(master, text="Song Name",style='TLabel', background="pale goldenrod").grid(row=0, column=2)
+ttk.Label(master, text="Artist",style='TLabel', background="pale goldenrod").grid(row=1, column=2)
 
-#default entry arguments
+# Default entry arguments
 v1 = StringVar()
 v1.set("Blood on the Leaves")
 e1 = Entry(master,textvariable=v1,font='helvetica 9', background="snow", foreground="gray")
@@ -170,20 +175,18 @@ e2.pack()
 e1.grid(row=0, column=3)
 e2.grid(row=1, column=3)
 
-#create results text box
+# Create results text box
 tex = Text(master=master, wrap=WORD)
 tex.config(width=60,height=20,font='helvetica 9')
 tex.tag_config("fail",foreground='red')
 tex.tag_config("success",foreground='black')
 tex.grid(row=5,column=0,columnspan=5,padx=6)
 
-#create buttons
+# Create buttons
 Button(master, image=photo, command= lambda: display_text(CREDITS)).grid(row=0, column=0, sticky=W,padx=4,pady=4,ipadx=5,ipady=5,rowspan=3,columnspan=3)
 Button(master, text='Show Me', command=lambda: query(v1.get(),v2.get()),bg='white').grid(row=4, column=2, sticky=W, padx=3,pady=2)
 Button(master, text='Guess Genre', command=lambda: guess(v1.get(),v2.get()),bg='white').grid(row=4, column=3, sticky=W, padx=1,pady=2)
 Button(master, text='Quit', command=master.quit,bg='white').grid(row=6, column=4, sticky=W, padx=1,pady=2)
 Button(master, image=photo2, command= lambda: display_text(HELP)).grid(row=6, column=0, sticky=W,padx=6,pady=3)
-
-
 
 mainloop()

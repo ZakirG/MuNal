@@ -1,3 +1,8 @@
+# ##############################################################
+# This script processes the SQL databases. 
+# The rpy2 package is accessed to build a decision tree using housed R script.
+# Contains many functions for translation between R and SQL, and production of test statistics
+# ##############################################################
 import pyen
 import matplotlib.pyplot as plt
 import sys, string, re
@@ -9,14 +14,15 @@ from rpy2.robjects.packages import importr
 from collections import defaultdict
 import pickle
 import process_input as proc
-#Statistical analysis using R
-#Implements a decision tree/recursive partitioning
 
 
-WATCH_FOR_MISSING_VALUES = ["loudness_range","bpm_range","key_range","max_loudness_spike","max_bpm_spike","num_keys"]
+WATCH_FOR_MISSING_VALUES = [
+							"loudness_range", "bpm_range", "key_range", 
+							"max_loudness_spike","max_bpm_spike","num_keys"
+							]
 
-#Retrieves information from one songs table in database file; returns a dictionary
 def vector_db(database_file):
+	"""Retrieves information from one songs table in database file; returns a dictionary"""
 	db = sqlite3.connect(database_file)
 	cursor = db.cursor()
 	speechiness,bpm,key,duration,loudness= [],[],[],[],[]
@@ -67,10 +73,11 @@ def vector_db(database_file):
 	#db.close()
 	return rv
 
-#Takes dictionary from vector_db, returns an R data frame object
 def build_data_frame(sql_dict, names):
-	#This code fills a placeholder dictionary of item type list, flattens list
-	#We use defaultdict to improve performance, and transpose the input
+	"""Takes dictionary from vector_db, returns an R data frame object
+	This code fills a placeholder dictionary of item type list, flattens list
+	We use defaultdict to improve performance, and transpose the input.
+	"""
 	d = defaultdict(list)
 	i = 0
 	for category_data in sql_dict:
@@ -117,43 +124,44 @@ def build_data_frame(sql_dict, names):
 	data_frame = robjects.DataFrame(d)
 	return data_frame
 
-#Remove samples for which attribute is n SD away from mean
 def remove_outliers(data_frame, attribute, n):
+	"""Remove samples for which attribute is n SD away from mean"""
 	r = robjects.r
 	robjects.globalenv["dat"] = data_frame
 	new_frame = r("dat[!(abs(dat$"+attribute+" - mean(dat$"+attribute+ \
-	"))/sd(dat$"+attribute+")) >" +str(n)+",]")
+						"))/sd(dat$"+attribute+")) >" +str(n)+",]")
 	return new_frame
 
-
-
-#Takes return value of build_data_frame, a data frame containing information for all categories
-#Notation: move to the left branch when the stated condition is true
 def decision_tree(data_frame, filename=0):
-    print "Building decision tree..."
-    r = robjects.r
-    rpart = importr("rpart")
-    fit = rpart.rpart("category~bpm+speechiness+time_sig+key+duration+loudness+\
-    end_of_fade_in+start_of_fade_out+bpm_range+\
-    max_bpm_spike+num_keys", data=data_frame, method="class", na_action='na.rpart', control='rpart.control(cp = .0001)')
-    rpart.printcp(fit)
-    r.plot(fit, uniform=True, main="Classification Tree for Genre")
-    r.text(fit, use_n=True, all=True, cex=.8)
-    if filename != 0:
-    	rpart.post(fit, file=filename, title="Classification Tree for Genre")
-    raw_input("> Press enter to continue.")
-    return fit
-    
-#Takes the return value of decision_tree (a fit) and a set of new, non-classified data in a data frame
-#Returns a probability matrix, containing probabilities that given song is in a genre
+	"""Takes return value of build_data_frame, a data frame containing information for all categories
+	Moves to the left branch when the stated condition is true
+	"""
+	print "Building decision tree..."
+	r = robjects.r
+	rpart = importr("rpart")
+	fit = rpart.rpart("category~bpm+speechiness+time_sig+key+duration+loudness+\
+			end_of_fade_in+start_of_fade_out+bpm_range+\
+			max_bpm_spike+num_keys", data=data_frame, method="class", 
+			na_action='na.rpart', control='rpart.control(cp = .0001)')
+	rpart.printcp(fit)
+	r.plot(fit, uniform=True, main="Classification Tree for Genre")
+	r.text(fit, use_n=True, all=True, cex=.8)
+	if filename != 0:
+		rpart.post(fit, file=filename, title="Classification Tree for Genre")
+	raw_input("> Press enter to continue.")
+	return fit
+
 def prob_category(new_music, fit):
+	"""Takes the return value of decision_tree (a fit) and a set of new, non-classified data in a data frame
+	Returns a probability matrix, containing probabilities that given song is in a genre
+	"""
 	r = robjects.r
 	#Be careful not to include the word 'data' in the function call below, although data is a keyword
 	predictions = r.predict(fit,new_music,type="prob")
 	return predictions
 
-#Classifies new database songs, returns a matrix of probabilities that a song falls in a category
 def classify(new_music,fit):
+	"""Classifies new database songs, returns a matrix of probabilities that a song falls in a category"""
 	r = robjects.r
 	p = prob_category(new_music,fit)
 	robjects.globalenv["pred"] = p
@@ -167,9 +175,10 @@ def classify(new_music,fit):
 	""")
 	return list(robjects.globalenv["classes"])
 
-#Performs a similar operation to classify() and all the above functions in one step
-#But retrieves fit from pickle, for the GUI
 def classify_encapsulated(audio_summary, track_info, pickle_file):
+	"""Performs a similar operation to classify() and all the above functions in one step
+	But retrieves fit from pickle, for the GUI
+	"""
 	f = open(pickle_file, 'r')
 	fit = pickle.load(f)
 	f.close()
@@ -200,8 +209,8 @@ def classify_encapsulated(audio_summary, track_info, pickle_file):
 	cls = classify(new_df,fit)
 	return [(edm_prob,folk_prob,rap_prob),cls[0]]
 
-#returns number of correct predictions
 def successes(predictions,truth):
+	"""Returns number of correct predictions"""
 	total = len(predictions)
 	correct = 0.0
 	for p in predictions:
@@ -211,8 +220,8 @@ def successes(predictions,truth):
 			print truth,"\t",p
 	return correct
 
-#returns success rate
 def success_rate(predictions_list,truth_list):
+	"""Returns success rate"""
 	total,correct = 0,0
 	for i in range(len(truth_list)):
 		correct += successes(predictions_list[i],truth_list[i])

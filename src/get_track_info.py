@@ -1,3 +1,11 @@
+# ##############################################################
+# This script uses another resource of data that Echonest provides:
+# including detailed track information, segment by segment breakdown of the song.
+# This allows for calculations on the variability of certain song properties. 
+# The information is obtained by visiting the analysis url, contained in the SQL table created by song_query.py
+# The new information is added to the track_info table produced by sql/track_table.sql. 
+# Usage: python get_track_info.py <database_file> <artist_name>
+# ##############################################################
 import pyen
 import matplotlib.pyplot as plt
 import os, sys, string, re
@@ -12,8 +20,8 @@ API_KEY = "GX5WDOWGQL5FJBBVF"
 #setting the API key
 en = pyen.Pyen("GX5WDOWGQL5FJBBVF")
 
-#Returns dictionary; song names are keys, analysis url's are items.
 def url_from_sql(database_file, artist_name):
+	"""Returns dictionary; song names are keys, analysis url's are items."""
 	db = sqlite3.connect(database_file)
 	cursor = db.cursor()
 	rv = {}
@@ -24,24 +32,21 @@ def url_from_sql(database_file, artist_name):
 	#db.close()
 	return rv
 
-#Section scraping data from analysis urls
-
-#Credit to Anne Rogers, taken from pa1's util.py
 def request_response(url):
-    prefix = "http://"
-    if url[:len(prefix)] != prefix:
-        url = prefix + url
-    
-    '''Open connection to url'''
-    try:
-        response = urllib2.urlopen(url)
-        return response
-    except urllib2.URLError:
-        return None
-    except Exception:
-        return None
-        
-#Credit to Anne Rogers, taken from pa1's util.py
+	"""Credit to Professor Anne Rogers for this function.
+	"""
+	prefix = "http://"
+	if url[:len(prefix)] != prefix:
+		url = prefix + url
+	'''Open connection to url'''
+	try:
+		response = urllib2.urlopen(url)
+		return response
+	except urllib2.URLError:
+    	return None
+	except Exception:
+		return None
+
 def read_from_response(request):
     try:
         return request.read()
@@ -49,8 +54,8 @@ def read_from_response(request):
         print "read failed"
         return -1
 
-#This returns json structure for url
 def get_json(url):
+	"""This returns json structure for an analysis url linking to EchoNest's website"""
 	try:
 		f = request_response(url)
 	except:
@@ -66,8 +71,8 @@ def get_json(url):
 	json_dict = json.loads(r)
 	return json_dict
 
-#Takes return value of url_from_sql to build a dictionary of dictionaries of song features
 def build_json_dict(url_dict):
+	"""Takes return value of url_from_sql to build a dictionary of dictionaries of song features"""
 	json_dict = {}
 	counter = 0
 	print "Number of tracks processed successfully: ",len(url_dict.keys())
@@ -85,8 +90,8 @@ def build_json_dict(url_dict):
 		counter += 1
 	return json_dict
 
-#Adds new sql table, track_info to the command line arg database, populated with output of sift
 def sql_fill(dict, database):
+	"""Adds new sql table, track_info to the command line arg database, populated with output of sift"""
 	db = sqlite3.connect(database)
 	db.text_factory = str
 	cursor = db.cursor()
@@ -102,8 +107,6 @@ def sql_fill(dict, database):
 		start_of_fade_out = dict[song]["track"]["start_of_fade_out"]
 		cursor.execute("INSERT INTO track_info VALUES(?,?,?,?,?,?,?,?,?);", (song_name, id, bars, segments, beats, sections, tatums, end_of_fade_in, start_of_fade_out))
 	db.commit()
-	#cursor.close()
-	#db.close()
 
 def main():
 	if len(sys.argv) > 2:

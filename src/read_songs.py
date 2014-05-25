@@ -1,27 +1,27 @@
+# ##################################################
+# This script takes a text file list of songs as input
+# Uses echonest to find information on all these songs and make an SQLite database, referenced in a command line arg
+# Usage: python read_songs.py <text file of songs> <database>
+# Example: python read_songs.py song_lists/list_of_songs.txt song_database.db
+# ##################################################
 import pyen
 import matplotlib.pyplot as plt
 import sys, string, re
 import sqlite3
-#short tutorial here https://github.com/plamere/pyen
-#API overview here http://developer.echonest.com/docs/v4/song.html#profile
-#This script take a text file list of songs as input
-#Uses echonest to find information on all these songs and make an SQLite database, referenced in a command line arg
-#Usage: python read_songs.py <text file of songs> <database>
-#example: python read_songs.py song_lists/list_of_songs.txt song_database.db
-
 
 API_KEY = "GX5WDOWGQL5FJBBVF"
 #setting the API key
 en = pyen.Pyen("GX5WDOWGQL5FJBBVF")
 
-#return song id
 def song_search(combined_input,result_num=0):
+	"""Returns song id"""
 	response = en.get('song/search', api_key=API_KEY, combined=combined_input)
 	if result_num >= len(response["songs"]):
 		return -1
 	return response["songs"][result_num]["id"]
 
 def song_profile(combined_input, result_num=0):
+	"""Returns song profile, an EchoNest construct, in dictionary form"""
 	id = song_search(combined_input, result_num)
 	if id == -1:
 		return -1
@@ -48,9 +48,9 @@ def get_speechiness(song_profile):
 
 def get_loudness(song_profile):
 	return song_profile["audio_summary"]["loudness"]
-	
-#made reading a function so that we only open each file for reading *once*
+
 def read_songs(filename):
+	"""Reads and cleans song names from file to create a dictionary"""
 	f = open(filename, 'r')
 	z = f.read()
 	f.close()
