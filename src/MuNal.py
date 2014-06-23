@@ -13,6 +13,7 @@ import pyen
 import data_analysis as analys
 import pickle
 
+DIV = os.sep
 API_KEY = "GX5WDOWGQL5FJBBVF"
 #setting the API key
 en = pyen.Pyen("GX5WDOWGQL5FJBBVF")
@@ -154,8 +155,8 @@ try:
 	style.configure("TLabel", font='tahoma 9', foreground='black')
 except: 
 	style.configure("TLabel", font='helvetica 9', foreground='black')
-photo = PhotoImage(file = 'images/yeezus1.gif')
-photo2 = PhotoImage(file = 'images/help1.gif')
+photo = PhotoImage(file = 'images' + DIV + 'yeezus1.gif')
+photo2 = PhotoImage(file = 'images' + DIV + 'help1.gif')
 ttk.Label(master, text="Song Name",style='TLabel', background="pale goldenrod").grid(row=0, column=2)
 ttk.Label(master, text="Artist",style='TLabel', background="pale goldenrod").grid(row=1, column=2)
 

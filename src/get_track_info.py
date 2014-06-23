@@ -43,7 +43,7 @@ def request_response(url):
 		response = urllib2.urlopen(url)
 		return response
 	except urllib2.URLError:
-    	return None
+		return None
 	except Exception:
 		return None
 

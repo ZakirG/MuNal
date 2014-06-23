@@ -15,7 +15,7 @@ from collections import defaultdict
 import pickle
 import process_input as proc
 
-
+DIV = os.sep
 WATCH_FOR_MISSING_VALUES = [
 							"loudness_range", "bpm_range", "key_range", 
 							"max_loudness_spike","max_bpm_spike","num_keys"
@@ -231,7 +231,7 @@ def success_rate(predictions_list,truth_list):
 def main():
 	if len(sys.argv) < 2:
 		categories = ["Rap", "EDM", "Folk"]
-		genre_db = ["genre_db/rap.db","genre_db/edm.db","genre_db/folk.db"]
+		genre_db = ["genre_db" + DIV + "rap.db", "genre_db" + DIV + "edm.db", "genre_db" + DIV + "folk.db"]
 		data = []
 		for db in genre_db:
 			data.append(vector_db(db))
@@ -251,9 +251,9 @@ def main():
 		r.text(fit, use_n=True, all=True, cex=.8)
 		raw_input("> Press enter to continue.")
 	#Testing success rate:
-	genre1 = vector_db("test_data/rap_test.db")
-	genre2 = vector_db("test_data/edm_test.db")
-	genre3 = vector_db("test_data/folk_test.db")
+	genre1 = vector_db("test_data" + DIV + "rap_test.db")
+	genre2 = vector_db("test_data" + DIV + "edm_test.db")
+	genre3 = vector_db("test_data" + DIV + "folk_test.db")
 	genre1_df = build_data_frame([genre1], ["Unknown"])
 	genre2_df = build_data_frame([genre2], ["Unknown"])
 	genre3_df = build_data_frame([genre3], ["Unknown"])
