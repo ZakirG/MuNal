@@ -4,7 +4,7 @@ _Written by Megan Barnes and Zakir Gowani_
 
 MuNal is an interactive application which uses a decision tree to classify the genre of a given song.
 
-It applies the RPart Decision Tree package to discriminate between music in the Echonest database based on a set of attributes that includes tempo, key, speechiness, and duration.
+It applies the RPart Decision Tree package to discriminate between songs in the Echonest database based on a set of attributes that includes tempo, key, speechiness, and duration.
 
 ![MuNal GUI](GUI.png)
 
