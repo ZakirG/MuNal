@@ -5,7 +5,7 @@
 # ##############################################################
 import pyen
 import matplotlib.pyplot as plt
-import sys, string, re
+import os, sys, string, re
 import sqlite3
 import read_songs
 import rpy2

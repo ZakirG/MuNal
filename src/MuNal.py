@@ -12,6 +12,7 @@ import process_input as procinp
 import pyen
 import data_analysis as analys
 import pickle
+import os
 
 DIV = os.sep
 API_KEY = "GX5WDOWGQL5FJBBVF"
