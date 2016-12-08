@@ -1,6 +1,6 @@
 ##MuNal: Genre categorization with Decision Trees
 
-####An application of the RPart Decision Tree package to classify music from Echonest's music database by genre, based on a set of attributes that includes tempo, key, speechiness, and duration.
+An application of the RPart Decision Tree package to classify music from Echonest's music database by genre, based on a set of attributes that includes tempo, key, speechiness, and duration.
 
 _Production team: Megan Barnes, Zakir Gowani, Michael Lizza_
 
@@ -13,7 +13,7 @@ _Production team: Megan Barnes, Zakir Gowani, Michael Lizza_
 
 To test if our database generation scripts work on your system:
 
-    $ sh src/test_all.sh
+    $ sh app/test_all.sh
 
 ####Prerequisite packages:
 * pyen: Available [here](https://github.com/plamere/pyen)
