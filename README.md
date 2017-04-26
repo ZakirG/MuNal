@@ -1,4 +1,4 @@
-## MuNal: Genre categorization with Decision Trees
+## MuNal: Genre categorization with Decision Trees [Project completed 4/2014]
 
 An application of the RPart Decision Tree package to classify music from Echonest's music database by genre, based on a set of attributes that includes tempo, key, speechiness, and duration.
 
